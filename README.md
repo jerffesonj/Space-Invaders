@@ -17,7 +17,7 @@ Game made in one week using Unity and exported for WebGL, with art assets made f
 
 Assets used: https://www.kenney.nl/assets/space-shooter-redux
 
-The breakable rock was made using and adapting a script from HectorPulido with the addition of the Advanced Polygon Collider.
+The breakable rock was made using and adapting a script from Hector Pulido with the addition of the Advanced Polygon Collider.
 
 Hector Pulido repository: https://github.com/HectorPulido/Worms-like-game-made-with-unity
 
